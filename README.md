@@ -3,6 +3,6 @@
 ## Проект выполнил: Иванова Анна
 
 ### Технологии
--html
--css
--javascript
+- html
+- css
+- javascript
